@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Hirteeka Shrivastav Portfolio",
+    "titleTemplate": "%s · Portfolio Marketing",
+    "description": "This is sample project of Hirteeka Shrivastav Portfolio.",
+    "author": "Kamyab Rouhifar",
+    "avatar": "../content/images/Mini.png",
+    "bio": "This biography will be used in the portfolio of Hirteeka Shrivastav | Marketing Manager",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/karouhifar",
+      "medium": "https://konstantinmuenster.medium.com",
+      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "mail": "mailto:mail@konstantin.digital"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Hirteeka Shrivastav" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Features", "url": "/#features" },
+        { "label": "project", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

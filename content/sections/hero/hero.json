@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/Smile Emoji.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Hirteeka Shrivastav",
+  "subtitle": {
+    "prefix": "I am a Marketing Professional with a passion for creating products and services",
+    "highlight": " for you",
+    "suffix": "."
+  },
+  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
